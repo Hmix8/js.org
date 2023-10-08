@@ -2283,6 +2283,7 @@ var cnames_active = {
   "portafolioarnulfo": "arpior.github.io/Portafolio",
   "portafolioluis": "luisself2020.github.io/portafolioluis",
   "portafoliorufino": "rufino-hdez.github.io/portafolio",
+  "PortafolioHmix8": "hmix8.github.io/Portafolio"
   "portainer-update": "flweber.github.io/portainer-stack-updater",
   "porter": "ahopkins.github.io/porterjs", // noCF? (don´t add this in a new PR)
   "poru": "brblacky.github.io/poru",
